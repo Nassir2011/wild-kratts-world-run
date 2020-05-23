@@ -2,7 +2,8 @@
     "name": "wild kratts world run",
     "dependencies": {
         "device": "*",
-        "animation": "*"
+        "animation": "*",
+        "light": "*"
     },
     "description": "",
     "files": [
